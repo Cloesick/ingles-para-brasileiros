@@ -1,0 +1,208 @@
+{
+  "id": "a1-02-artigos-falsos-cognatos",
+  "unit": "A1",
+  "title": "A, An, The e falsos cognatos · Articles & false friends",
+  "emoji": "🎭",
+  "teaching": [
+    {
+      "emoji": "🎭",
+      "title": "🎭 A ou An? É só sobre o SOM",
+      "html": "<p>O português não tem essa distinção, mas é simples: <b>an</b> antes de som de vogal, <b>a</b> antes de som de consoante. Repare: é sobre o <b>som</b>, não a letra!</p><table class=\"vocab\"><tr><th>A (som de consoante)</th><th>AN (som de vogal)</th></tr><tr><td>a house (casa)</td><td>an apple (maçã)</td></tr><tr><td>a university 🔊 (som de \"y\")</td><td>an hour 🔊 (h mudo, som de \"h-our\" vira vogal)</td></tr><tr><td>a European</td><td>an umbrella (guarda-chuva)</td></tr></table><p>💡 <b>university</b> começa com U mas soa como \"yuniversity\" (som de consoante), por isso é <b>a</b> university. <b>hour</b> tem H mudo, soa como \"our\", por isso é <b>an</b> hour. Ouça o som, não veja a letra! 👂</p>"
+    },
+    {
+      "emoji": "🔑",
+      "title": "🔑 The: quando ambos já sabem do que você fala",
+      "html": "<p><b>The</b> é o \"o/a/os/as\" do inglês, mas só usado quando é <b>específico e já conhecido</b> pelos dois lados da conversa.</p><ul><li><i>I saw <b>a</b> dog.</i> = Eu vi um cachorro. (qualquer cachorro, primeira vez que menciono)</li><li><i><b>The</b> dog was brown.</i> = O cachorro era marrom. (agora estamos falando do MESMO cachorro específico)</li></ul><p>💡 Erro comum de brasileiro: usar \"the\" demais, porque em português \"o/a\" aparece o tempo todo (\"o amor\", \"a vida\"). Em inglês, ideias gerais/abstratas <b>não levam artigo</b>: <i>Love is important.</i> (NÃO \"The love is important\"). 🚫</p>"
+    },
+    {
+      "emoji": "⚠️",
+      "title": "⚠️ Falsos cognatos: as armadilhas mais comuns",
+      "html": "<p>Palavras parecidas com o português, mas com significado totalmente diferente. Essas pegam <b>todo mundo</b> no início:</p><table class=\"vocab\"><tr><th>Palavra</th><th>Parece que é...</th><th>Na verdade é...</th></tr><tr><td><b>actually</b></td><td>atualmente</td><td>na verdade / de fato</td></tr><tr><td><b>pretend</b></td><td>pretender</td><td>fingir</td></tr><tr><td><b>push</b></td><td>puxar</td><td>empurrar (o oposto!)</td></tr><tr><td><b>parents</b></td><td>parentes</td><td>pais (mãe e pai)</td></tr><tr><td><b>pull</b></td><td>-</td><td>puxar (não confunda com push!)</td></tr><tr><td><b>college</b></td><td>colégio</td><td>faculdade</td></tr></table><p>🎯 Dica de ouro: se a tradução \"óbvia\" faz uma frase estranha, desconfie de falso cognato!</p>"
+    },
+    {
+      "emoji": "🆘",
+      "title": "🆘 Currently vs. actually: o par mais confuso",
+      "html": "<p>Esse par derruba até quem já fala inglês há anos:</p><ul><li><b>currently</b> = atualmente, agora <i>(I currently live in London = Atualmente moro em Londres)</i></li><li><b>actually</b> = na verdade <i>(Actually, I don't agree = Na verdade, eu não concordo)</i></li></ul><p>💡 Truque para nunca mais errar: <b>actually</b> soa parecido com \"atualmente\" mas significa o oposto disso. Pense: \"actually\" = \"na At-ualidade eu discordo\" não faz sentido, então force a associação com \"na verdade\". 🧠</p>"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": [{"t":"I","r":"pron"},{"t":"want","r":"verb"},{"t":"an","r":"art"},{"t":"apple","r":"noun"},{"t":"and","r":"conj"},{"t":"a","r":"art"},{"t":"banana","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Eu","r":"pron"},{"t":"quero","r":"verb"},{"t":"uma","r":"art"},{"t":"maçã","r":"noun"},{"t":"e","r":"conj"},{"t":"uma","r":"art"},{"t":"banana","r":"noun"},{"t":".","r":"punc"}],
+      "note": "apple começa com som de vogal (an), banana com som de consoante (a). O português usa \"uma\" para os dois, sem essa distinção. 🍎🍌"
+    },
+    {
+      "nl": [{"t":"She","r":"pron"},{"t":"works","r":"verb"},{"t":"at","r":"prep"},{"t":"a","r":"art"},{"t":"university","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Ela","r":"pron"},{"t":"trabalha","r":"verb"},{"t":"em","r":"prep"},{"t":"uma","r":"art"},{"t":"universidade","r":"noun"},{"t":".","r":"punc"}],
+      "note": "university soa \"yuniversity\" (som de consoante Y), por isso é \"a\" university, não \"an\". A pegadinha clássica! 🎓"
+    },
+    {
+      "nl": [{"t":"I'll","r":"pron"},{"t":"be","r":"verb"},{"t":"back","r":"adv"},{"t":"in","r":"prep"},{"t":"an","r":"art"},{"t":"hour","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Eu","r":"pron"},{"t":"volto","r":"verb"},{"t":"em","r":"prep"},{"t":"uma","r":"art"},{"t":"hora","r":"noun"},{"t":".","r":"punc"}],
+      "lit": "eu-vou estar de-volta em uma hora",
+      "note": "hour tem H mudo, soa \"our\" (vogal), por isso \"an\" hour. O oposto de university: aqui a letra engana, o som manda. ⏰"
+    },
+    {
+      "nl": [{"t":"I","r":"pron"},{"t":"saw","r":"verb"},{"t":"a","r":"art"},{"t":"dog","r":"noun"},{"t":".","r":"punc"},{"t":"The","r":"art"},{"t":"dog","r":"noun"},{"t":"was","r":"verb"},{"t":"brown","r":"adj"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Eu","r":"pron"},{"t":"vi","r":"verb"},{"t":"um","r":"art"},{"t":"cachorro","r":"noun"},{"t":".","r":"punc"},{"t":"O","r":"art"},{"t":"cachorro","r":"noun"},{"t":"era","r":"verb"},{"t":"marrom","r":"adj"},{"t":".","r":"punc"}],
+      "note": "Primeira menção usa \"a\" (qualquer cachorro); segunda menção usa \"the\" (agora é específico, já sabemos qual). 🐕"
+    },
+    {
+      "nl": [{"t":"Love","r":"noun"},{"t":"is","r":"verb"},{"t":"important","r":"adj"},{"t":".","r":"punc"}],
+      "pt": [{"t":"O","r":"art"},{"t":"amor","r":"noun"},{"t":"é","r":"verb"},{"t":"importante","r":"noun"},{"t":".","r":"punc"}],
+      "lit": "amor é importante",
+      "note": "Ideias gerais/abstratas em inglês NÃO levam artigo. \"The love is important\" soa errado. Português usa \"o amor\" sempre; inglês, nunca aqui. 🚫"
+    },
+    {
+      "nl": [{"t":"Actually","r":"adv"},{"t":",","r":"punc"},{"t":"I","r":"pron"},{"t":"don't","r":"neg"},{"t":"agree","r":"verb"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Na","r":"adv"},{"t":"verdade","r":"noun"},{"t":",","r":"punc"},{"t":"eu","r":"pron"},{"t":"não","r":"neg"},{"t":"concordo","r":"verb"},{"t":".","r":"punc"}],
+      "note": "actually = na verdade, NUNCA \"atualmente\"! O falso cognato mais famoso da língua inglesa. ⚠️"
+    },
+    {
+      "nl": [{"t":"I","r":"pron"},{"t":"currently","r":"adv"},{"t":"live","r":"verb"},{"t":"in","r":"prep"},{"t":"London","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Atualmente","r":"adv"},{"t":"eu","r":"pron"},{"t":"moro","r":"verb"},{"t":"em","r":"prep"},{"t":"Londres","r":"noun"},{"t":".","r":"punc"}],
+      "note": "currently = atualmente (o cognato \"correto\" que parece com \"actually\" mas não é). Cuidado para não trocar os dois! 📅"
+    },
+    {
+      "nl": [{"t":"Please","r":"x"},{"t":",","r":"punc"},{"t":"push","r":"verb"},{"t":"the","r":"art"},{"t":"door","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Por","r":"x"},{"t":"favor","r":"x"},{"t":",","r":"punc"},{"t":"empurre","r":"verb"},{"t":"a","r":"art"},{"t":"porta","r":"noun"},{"t":".","r":"punc"}],
+      "note": "push = empurrar, NÃO puxar! É o oposto exato do que parece. pull é o verbo para \"puxar\". 🚪"
+    },
+    {
+      "nl": [{"t":"My","r":"pron"},{"t":"parents","r":"noun"},{"t":"live","r":"verb"},{"t":"in","r":"prep"},{"t":"Brazil","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Meus","r":"pron"},{"t":"pais","r":"noun"},{"t":"moram","r":"verb"},{"t":"no","r":"prep"},{"t":"Brasil","r":"noun"},{"t":".","r":"punc"}],
+      "note": "parents = pais (mãe e pai), NÃO parentes! \"Relatives\" é a palavra certa para \"parentes\" em geral. 👨‍👩‍👧"
+    },
+    {
+      "nl": [{"t":"She","r":"pron"},{"t":"is","r":"verb"},{"t":"pretending","r":"verb"},{"t":"to","r":"x"},{"t":"sleep","r":"verb"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Ela","r":"pron"},{"t":"está","r":"verb"},{"t":"fingindo","r":"verb"},{"t":"dormir","r":"verb"},{"t":".","r":"punc"}],
+      "note": "pretend = fingir, NÃO pretender! \"Intend\" ou \"plan to\" são as palavras certas para \"pretender\". 😴"
+    },
+    {
+      "nl": [{"t":"My","r":"pron"},{"t":"sister","r":"noun"},{"t":"is","r":"verb"},{"t":"in","r":"prep"},{"t":"college","r":"noun"},{"t":"now","r":"adv"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Minha","r":"pron"},{"t":"irmã","r":"noun"},{"t":"está","r":"verb"},{"t":"na","r":"prep"},{"t":"faculdade","r":"noun"},{"t":"agora","r":"adv"},{"t":".","r":"punc"}],
+      "note": "college = faculdade nos EUA (o colégio brasileiro é \"high school\"). Mais um falso cognato clássico! 🎓"
+    }
+  ],
+  "vocab": [
+    { "nl": "actually", "art": null, "split": null, "pt": "na verdade (falso cognato de \"atualmente\"!)", "emoji": "⚠️" },
+    { "nl": "currently", "art": null, "split": null, "pt": "atualmente", "emoji": "📅" },
+    { "nl": "pretend", "art": null, "split": null, "pt": "fingir (falso cognato de \"pretender\"!)", "emoji": "🎭" },
+    { "nl": "push", "art": null, "split": null, "pt": "empurrar (falso cognato de \"puxar\"!)", "emoji": "👉" },
+    { "nl": "pull", "art": null, "split": null, "pt": "puxar", "emoji": "👈" },
+    { "nl": "parents", "art": null, "split": null, "pt": "pais, mãe e pai (falso cognato de \"parentes\"!)", "emoji": "👨‍👩‍👧" },
+    { "nl": "relatives", "art": null, "split": null, "pt": "parentes (a palavra certa)", "emoji": "👪" },
+    { "nl": "college", "art": null, "split": null, "pt": "faculdade (falso cognato de \"colégio\"!)", "emoji": "🎓" },
+    { "nl": "intend / plan to", "art": null, "split": null, "pt": "pretender (a palavra certa)", "emoji": "🎯" },
+    { "nl": "hour", "art": null, "split": null, "pt": "hora (H mudo, soa como vogal: an hour)", "emoji": "⏰" },
+    { "nl": "university", "art": null, "split": null, "pt": "universidade (soa \"yu-\", como consoante: a university)", "emoji": "🎓" },
+    { "nl": "dog", "art": null, "split": null, "pt": "cachorro", "emoji": "🐕" },
+    { "nl": "love", "art": null, "split": null, "pt": "amor (ideia geral, sem artigo em inglês)", "emoji": "❤️" },
+    { "nl": "door", "art": null, "split": null, "pt": "porta", "emoji": "🚪" },
+    { "nl": "apple", "art": null, "split": null, "pt": "maçã", "emoji": "🍎" },
+    { "nl": "umbrella", "art": null, "split": null, "pt": "guarda-chuva", "emoji": "☂️" }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "q": "\"University\" usa A ou AN? 🎓",
+      "options": ["tanto faz", "an university (começa com vogal)", "a university (soa como consoante 'y')", "nenhum artigo"],
+      "answer": 2,
+      "explain": "university SOA \"yuniversity\" (som de consoante), então é \"a\" university mesmo começando com a letra U. É sobre o SOM, não a letra."
+    },
+    {
+      "type": "mc",
+      "q": "\"Hour\" usa A ou AN? ⏰",
+      "options": ["a hour (H é consoante)", "tanto faz", "nenhum artigo", "an hour (H é mudo, soa como vogal)"],
+      "answer": 3,
+      "explain": "hour tem H mudo e soa \"our\" (vogal), então é \"an\" hour. O oposto de university: aqui a letra H engana."
+    },
+    {
+      "type": "mc",
+      "q": "\"Actually, I don't agree.\" O que essa frase quer dizer? ⚠️",
+      "options": ["Atualmente eu não concordo", "Eu realmente concordo", "Na verdade eu não concordo", "Eu não concordava"],
+      "answer": 2,
+      "explain": "actually = na verdade, NUNCA \"atualmente\". Esse é o falso cognato mais famoso e mais confundido por brasileiros."
+    },
+    {
+      "type": "mc",
+      "q": "Você vê uma placa \"PUSH\" numa porta. O que você faz? 🚪",
+      "options": ["Puxa a porta", "Empurra a porta", "Bate na porta", "Espera alguém abrir"],
+      "answer": 1,
+      "explain": "push = empurrar (o oposto exato do que parece em português). pull seria puxar."
+    },
+    {
+      "type": "listen",
+      "nl": "My parents live in Brazil.",
+      "options": ["Meus parentes moram no Brasil.", "Meus amigos moram no Brasil.", "Meus pais moram no Brasil."],
+      "answer": 2,
+      "explain": "parents = pais (mãe e pai), não parentes! \"Relatives\" seria a palavra certa para parentes em geral."
+    },
+    {
+      "type": "listen",
+      "nl": "I saw a dog. The dog was brown.",
+      "options": ["Eu vi um cachorro qualquer, duas vezes.", "Dois cachorros diferentes.", "Primeiro cachorro genérico, depois o mesmo cachorro específico."],
+      "answer": 2,
+      "explain": "\"a dog\" na primeira menção (qualquer cachorro), \"the dog\" na segunda (agora é específico e conhecido)."
+    },
+    {
+      "type": "listen",
+      "nl": "My sister is in college now.",
+      "options": ["Minha irmã está no colégio agora.", "Minha irmã está na faculdade agora.", "Minha irmã terminou a escola."],
+      "answer": 1,
+      "explain": "college = faculdade (nos EUA). \"Colégio\" brasileiro se diz \"high school\" em inglês."
+    },
+    {
+      "type": "fill",
+      "before": "I want",
+      "after": "apple.",
+      "answer": "an",
+      "alt": [],
+      "hint": "apple começa com som de vogal",
+      "explain": "an apple: apple soa com vogal no início, então usa \"an\", não \"a\"."
+    },
+    {
+      "type": "fill",
+      "before": "She works at",
+      "after": "university.",
+      "answer": "a",
+      "alt": [],
+      "hint": "university soa como consoante (y)",
+      "explain": "a university: apesar de começar com a letra U, o SOM é de consoante (\"yu-\"), então é \"a\", não \"an\"."
+    },
+    {
+      "type": "fill",
+      "before": "",
+      "after": ", I don't agree.",
+      "answer": "Actually",
+      "alt": [],
+      "hint": "na verdade (falso cognato!)",
+      "explain": "Actually = na verdade. Nunca confunda com \"atualmente\", que é \"currently\"."
+    },
+    {
+      "type": "order",
+      "pt": "Eu vi um cachorro. O cachorro era marrom.",
+      "tokens": ["I", "saw", "a", "dog", "The", "dog", "was", "brown"],
+      "answer": "I saw a dog The dog was brown",
+      "explain": "Primeira menção: \"a dog\" (genérico). Segunda menção: \"the dog\" (específico, já conhecido). Ordem igual ao português aqui."
+    },
+    {
+      "type": "order",
+      "pt": "Por favor, empurre a porta.",
+      "tokens": ["Please", "push", "the", "door"],
+      "answer": "Please push the door",
+      "explain": "push = empurrar (não puxar!). \"The door\" porque é uma porta específica, a que está na frente de vocês."
+    },
+    {
+      "type": "match",
+      "pairs": [
+        ["actually", "na verdade"],
+        ["parents", "pais"],
+        ["push", "empurrar"],
+        ["college", "faculdade"],
+        ["pretend", "fingir"]
+      ],
+      "explain": "Os cinco falsos cognatos mais comuns que derrubam brasileiros aprendendo inglês - decore esses cinco primeiro!"
+    }
+  ]
+}

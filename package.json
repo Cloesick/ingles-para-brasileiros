@@ -1,0 +1,10 @@
+{
+  "name": "ingles-para-brasileiros",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Curso de ingles para brasileiros, mesmo motor pedagogico das versoes de neerlandes. Frontend estatico sem build; /api contem funcoes serverless da Vercel para o premium (Stripe + Supabase).",
+  "dependencies": {
+    "stripe": "^17.5.0",
+    "@supabase/supabase-js": "^2.47.0"
+  }
+}

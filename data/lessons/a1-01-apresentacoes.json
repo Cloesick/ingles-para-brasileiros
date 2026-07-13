@@ -1,0 +1,218 @@
+{
+  "id": "a1-01-apresentacoes",
+  "unit": "A1",
+  "title": "Apresentações · Introductions",
+  "emoji": "👋",
+  "teaching": [
+    {
+      "emoji": "🎯",
+      "title": "🎯 To be: um verbo só para ser E estar",
+      "html": "<p>Em português você tem <b>ser</b> e <b>estar</b>. Em inglês, um verbo só faz os dois: <b>to be</b>.</p><table class=\"vocab\"><tr><th>🇬🇧 English</th><th>🇧🇷 Português</th><th>uso</th></tr><tr><td><b>I am</b> Sofia.</td><td>Eu <b>sou</b> a Sofia.</td><td>identidade (ser)</td></tr><tr><td><b>I am</b> tired.</td><td>Eu <b>estou</b> cansada.</td><td>estado temporário (estar)</td></tr><tr><td><b>I am</b> from Brazil.</td><td>Eu <b>sou</b> do Brasil.</td><td>origem (ser)</td></tr></table><p>💡 O inglês nunca escolhe entre ser/estar: é sempre <b>to be</b>. E diferente do português, o inglês <b>nunca descarta o pronome</b>: você sempre precisa dizer \"I\", \"you\", \"she\"... nunca só o verbo sozinho. 🗣️</p>"
+    },
+    {
+      "emoji": "🙋",
+      "title": "🙋 You: um pronome só, sem formal/informal",
+      "html": "<p>O português tem você/tu e o formal senhor(a). O inglês simplificou tudo isso: <b>you</b> serve para qualquer pessoa, qualquer situação.</p><ul><li>😊 Com amigos: <i>How are you?</i></li><li>🎩 Com o chefe: <i>How are you?</i></li><li>👴 Com um estranho na rua: <i>How are you?</i></li></ul><p>A formalidade em inglês não muda o pronome, muda o <b>vocabulário e o tom</b>: <i>Hey, what's up?</i> (informal) vs. <i>Good morning, how do you do?</i> (formal). 🎭</p><p><small>💡 Isso é uma boa notícia: você não vai errar o pronome de tratamento em inglês como pode errar em português (tu/você/senhor). Um problema a menos!</small></p>"
+    },
+    {
+      "emoji": "🔄",
+      "title": "🔄 Perguntas com Do/Does: o auxiliar que o português não tem",
+      "html": "<p>Em português você faz pergunta só com entonação: \"Você fala inglês?\" (a ordem das palavras não muda). Em inglês, você precisa de um <b>verbo auxiliar</b>: <b>do</b> ou <b>does</b>.</p><ul><li><i><b>Do</b> you speak English?</i> = Você fala inglês?</li><li><i><b>Does</b> she speak English?</i> = Ela fala inglês? (does com he/she/it)</li></ul><p>💡 O erro mais comum de brasileiro: esquecer o do/does e simplesmente inverter como em português. <b>\"Speak you English?\"</b> soa muito estranho em inglês. Sempre: Do/Does + sujeito + verbo no infinitivo (sem \"to\"). 🚫</p>"
+    },
+    {
+      "emoji": "🆘",
+      "title": "🆘 Frases salva-vidas: decore hoje",
+      "html": "<p>Cinco frases que salvam <b>qualquer</b> conversa no primeiro ano:</p><ul><li>🔁 <b>Could you repeat that, please?</b> = Pode repetir, por favor?</li><li>🐢 <b>Could you speak more slowly?</b> = Pode falar mais devagar?</li><li>🤷 <b>I don't understand.</b> = Eu não entendo.</li><li>❓ <b>What does that mean?</b> = O que isso significa?</li><li>🗣️ <b>How do you say ... in English?</b> = Como se diz ... em inglês?</li></ul><p>E a mais honesta de todas: <b>I don't speak English very well yet.</b> (Ainda não falo inglês muito bem.) A maioria das pessoas vai ter paciência e ajudar! 💪</p>"
+    }
+  ],
+  "phrases": [
+    {
+      "nl": [{"t":"Hi","r":"x"},{"t":"!","r":"punc"},{"t":"I","r":"pron"},{"t":"am","r":"verb"},{"t":"Sofia","r":"noun"},{"t":".","r":"punc"},{"t":"I","r":"pron"},{"t":"live","r":"verb"},{"t":"next","r":"adv"},{"t":"door","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Oi","r":"x"},{"t":"!","r":"punc"},{"t":"Eu","r":"pron"},{"t":"sou","r":"verb"},{"t":"a","r":"art"},{"t":"Sofia","r":"noun"},{"t":".","r":"punc"},{"t":"Moro","r":"verb"},{"t":"aqui","r":"adv"},{"t":"do","r":"prep"},{"t":"lado","r":"noun"},{"t":".","r":"punc"}],
+      "note": "\"next door\" é uma expressão fixa para \"aqui do lado\" (na casa vizinha). O pronome I nunca pode ser omitido, diferente do português. 🚪"
+    },
+    {
+      "nl": [{"t":"Hi","r":"x"},{"t":"there","r":"x"},{"t":".","r":"punc"},{"t":"My","r":"pron"},{"t":"name","r":"noun"},{"t":"is","r":"verb"},{"t":"Sofia","r":"noun"},{"t":".","r":"punc"},{"t":"Nice","r":"x"},{"t":"to","r":"x"},{"t":"meet","r":"x"},{"t":"you","r":"x"},{"t":"!","r":"punc"}],
+      "pt": [{"t":"Oi","r":"x"},{"t":".","r":"punc"},{"t":"Meu","r":"pron"},{"t":"nome","r":"noun"},{"t":"é","r":"verb"},{"t":"Sofia","r":"noun"},{"t":".","r":"punc"},{"t":"Prazer","r":"x"},{"t":"em","r":"x"},{"t":"conhecer","r":"x"},{"t":"você","r":"x"},{"t":"!","r":"punc"}],
+      "note": "\"My name is...\" é tão comum quanto \"I am...\" para se apresentar. \"Nice to meet you\" é o \"prazer\" padrão em inglês. 🤝"
+    },
+    {
+      "nl": [{"t":"Where","r":"qw"},{"t":"are","r":"verb"},{"t":"you","r":"pron"},{"t":"from","r":"prep"},{"t":"?","r":"punc"}],
+      "pt": [{"t":"De","r":"prep"},{"t":"onde","r":"qw"},{"t":"você","r":"pron"},{"t":"é","r":"verb"},{"t":"?","r":"punc"}],
+      "lit": "de-onde você é de",
+      "note": "O inglês manda a preposição \"from\" para o FIM da frase, igual o neerlandês faz com \"vandaan\". Muito comum em perguntas com where/who/what. 🎬"
+    },
+    {
+      "nl": [{"t":"I","r":"pron"},{"t":"am","r":"verb"},{"t":"from","r":"prep"},{"t":"Brazil","r":"noun"},{"t":".","r":"punc"},{"t":"I","r":"pron"},{"t":"live","r":"verb"},{"t":"in","r":"prep"},{"t":"the","r":"art"},{"t":"UK","r":"noun"},{"t":"now","r":"adv"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Eu","r":"pron"},{"t":"sou","r":"verb"},{"t":"do","r":"prep"},{"t":"Brasil","r":"noun"},{"t":".","r":"punc"},{"t":"Agora","r":"adv"},{"t":"moro","r":"verb"},{"t":"no","r":"prep"},{"t":"Reino","r":"noun"},{"t":"Unido","r":"adj"},{"t":".","r":"punc"}],
+      "lit": "eu sou de Brasil. eu moro no Reino-Unido agora",
+      "note": "\"from\" = origem, \"in\" = onde você mora agora. Note que \"now\" pode ficar no fim da frase em inglês, diferente do neerlandês que exige a posição 2. 🇧🇷➡️🇬🇧"
+    },
+    {
+      "nl": [{"t":"What","r":"qw"},{"t":"is","r":"verb"},{"t":"your","r":"pron"},{"t":"name","r":"noun"},{"t":"?","r":"punc"}],
+      "pt": [{"t":"Qual","r":"qw"},{"t":"é","r":"verb"},{"t":"o","r":"art"},{"t":"seu","r":"pron"},{"t":"nome","r":"noun"},{"t":"?","r":"punc"}],
+      "note": "Aqui o inglês e o português combinam quase palavra por palavra: What = Qual (literalmente \"o quê\"), mas a estrutura bate certinho. 🏷️"
+    },
+    {
+      "nl": [{"t":"Do","r":"x"},{"t":"you","r":"pron"},{"t":"speak","r":"verb"},{"t":"Portuguese","r":"noun"},{"t":"?","r":"punc"}],
+      "pt": [{"t":"Você","r":"pron"},{"t":"fala","r":"verb"},{"t":"português","r":"noun"},{"t":"?","r":"punc"}],
+      "lit": "faz você falar português",
+      "note": "Pergunta sim/não precisa do auxiliar \"do\": Do you speak...? Sem o do, a frase fica errada em inglês (diferente do português, que só usa entonação). 🔄"
+    },
+    {
+      "nl": [{"t":"A","r":"art"},{"t":"little","r":"adv"},{"t":".","r":"punc"},{"t":"I","r":"pron"},{"t":"am","r":"verb"},{"t":"learning","r":"verb"},{"t":"English","r":"noun"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Um","r":"art"},{"t":"pouco","r":"noun"},{"t":".","r":"punc"},{"t":"Eu","r":"pron"},{"t":"estou","r":"verb"},{"t":"aprendendo","r":"verb"},{"t":"inglês","r":"noun"},{"t":".","r":"punc"}],
+      "note": "\"I am learning\" (presente contínuo) é usado para ações em progresso, igual o gerúndio do português. Aqui o inglês E o português combinam! 🎉"
+    },
+    {
+      "nl": [{"t":"Do","r":"x"},{"t":"you","r":"pron"},{"t":"have","r":"verb"},{"t":"children","r":"noun"},{"t":"?","r":"punc"}],
+      "pt": [{"t":"Você","r":"pron"},{"t":"tem","r":"verb"},{"t":"filhos","r":"noun"},{"t":"?","r":"punc"}],
+      "lit": "faz você ter filhos",
+      "note": "Outro uso do auxiliar do: Do you have...? Nunca \"Have you children?\" nesse estilo mais moderno de inglês. 👶"
+    },
+    {
+      "nl": [{"t":"Yes","r":"x"},{"t":",","r":"punc"},{"t":"I","r":"pron"},{"t":"have","r":"verb"},{"t":"a","r":"art"},{"t":"daughter","r":"noun"},{"t":".","r":"punc"},{"t":"She","r":"pron"},{"t":"is","r":"verb"},{"t":"two","r":"num"},{"t":"years","r":"noun"},{"t":"old","r":"adj"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Sim","r":"x"},{"t":",","r":"punc"},{"t":"tenho","r":"verb"},{"t":"uma","r":"art"},{"t":"filha","r":"noun"},{"t":".","r":"punc"},{"t":"Ela","r":"pron"},{"t":"tem","r":"verb"},{"t":"dois","r":"num"},{"t":"anos","r":"noun"},{"t":".","r":"punc"}],
+      "lit": "sim, eu tenho uma filha. ela é dois anos velha",
+      "note": "Idade em inglês usa \"to be\" + anos + \"old\" (ela É dois anos velha), não \"ter\" como em português! Muito parecido com o alemão/neerlandês, aliás. 🎂"
+    },
+    {
+      "nl": [{"t":"Could","r":"verb"},{"t":"you","r":"pron"},{"t":"repeat","r":"verb"},{"t":"that","r":"pron"},{"t":",","r":"punc"},{"t":"please","r":"x"},{"t":"?","r":"punc"}],
+      "pt": [{"t":"Pode","r":"verb"},{"t":"repetir","r":"verb"},{"t":"isso","r":"pron"},{"t":",","r":"punc"},{"t":"por","r":"x"},{"t":"favor","r":"x"},{"t":"?","r":"punc"}],
+      "lit": "poderia você repetir isso, por-favor",
+      "note": "\"Could you...?\" é mais educado que \"Can you...?\" - útil para pedir favores formalmente. Frase salva-vidas número 1! 🆘"
+    },
+    {
+      "nl": [{"t":"I","r":"pron"},{"t":"don't","r":"neg"},{"t":"speak","r":"verb"},{"t":"English","r":"noun"},{"t":"very","r":"adv"},{"t":"well","r":"adv"},{"t":"yet","r":"adv"},{"t":".","r":"punc"}],
+      "pt": [{"t":"Eu","r":"pron"},{"t":"ainda","r":"adv"},{"t":"não","r":"neg"},{"t":"falo","r":"verb"},{"t":"inglês","r":"noun"},{"t":"muito","r":"adv"},{"t":"bem","r":"adv"},{"t":".","r":"punc"}],
+      "lit": "eu não falo inglês muito bem ainda",
+      "note": "\"don't\" é a contração de \"do not\": o auxiliar do aparece de novo, agora na negação. Diga essa frase e as pessoas vão ter paciência! 😊"
+    },
+    {
+      "nl": [{"t":"See","r":"x"},{"t":"you","r":"x"},{"t":"later","r":"adv"},{"t":"!","r":"punc"},{"t":"See","r":"x"},{"t":"you","r":"x"},{"t":"tomorrow","r":"adv"},{"t":"!","r":"punc"}],
+      "pt": [{"t":"Até","r":"prep"},{"t":"logo","r":"adv"},{"t":"!","r":"punc"},{"t":"Até","r":"prep"},{"t":"amanhã","r":"adv"},{"t":"!","r":"punc"}],
+      "note": "Fórmula de despedida: \"See you\" + qualquer coisa. See you later, see you tomorrow, see you soon, see you next week. 👋"
+    }
+  ],
+  "vocab": [
+    { "nl": "name", "art": null, "split": null, "pt": "nome", "emoji": "🏷️" },
+    { "nl": "first name", "art": null, "split": null, "pt": "primeiro nome", "emoji": "🪪" },
+    { "nl": "last name", "art": null, "split": null, "pt": "sobrenome", "emoji": "📛" },
+    { "nl": "neighbour", "art": null, "split": null, "pt": "vizinho/a (BrE: neighbour, AmE: neighbor)", "emoji": "🏘️" },
+    { "nl": "hometown", "art": null, "split": "home (casa) + town (cidade)", "pt": "cidade natal", "emoji": "📍" },
+    { "nl": "house number", "art": null, "split": null, "pt": "número da casa", "emoji": "🔢" },
+    { "nl": "date of birth", "art": null, "split": null, "pt": "data de nascimento", "emoji": "🎂" },
+    { "nl": "country", "art": null, "split": null, "pt": "país", "emoji": "🌍" },
+    { "nl": "daughter", "art": null, "split": null, "pt": "filha", "emoji": "👧" },
+    { "nl": "son", "art": null, "split": null, "pt": "filho", "emoji": "👦" },
+    { "nl": "child / children", "art": null, "split": null, "pt": "criança / crianças (plural irregular!)", "emoji": "👶" },
+    { "nl": "to live", "art": null, "split": null, "pt": "morar (I live = eu moro)", "emoji": "🏡" },
+    { "nl": "to be called", "art": null, "split": null, "pt": "chamar-se (What are you called? é raro; use What's your name?)", "emoji": "🗣️" },
+    { "nl": "to repeat", "art": null, "split": null, "pt": "repetir", "emoji": "🔁" },
+    { "nl": "actually", "art": null, "split": null, "pt": "na verdade (falso cognato! NÃO é \"atualmente\")", "emoji": "⚠️" },
+    { "nl": "Nice to meet you!", "art": null, "split": null, "pt": "Prazer em conhecer você!", "emoji": "🤝" }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "q": "Como você diz \"Eu sou a Sofia\" e \"Eu estou cansada\" usando o MESMO verbo em inglês? 🤔",
+      "options": ["I am / I am", "I be / I stay", "I do / I make", "I have / I get"],
+      "answer": 0,
+      "explain": "\"to be\" cobre ser E estar em inglês: I am Sofia (ser), I am tired (estar). Um verbo só para os dois!"
+    },
+    {
+      "type": "mc",
+      "q": "Qual é a pergunta correta para \"Você fala inglês?\"? 🇬🇧",
+      "options": ["Speak you English?", "You speak English?", "Do you speak English?", "Are you speak English?"],
+      "answer": 2,
+      "explain": "Perguntas em inglês precisam do auxiliar do/does: Do you speak English? Sem ele a frase soa muito estranha (erro clássico de quem traduz direto do português)."
+    },
+    {
+      "type": "mc",
+      "q": "Como formalizar \"você\" em inglês, tipo o \"senhor\" do português? 🎩",
+      "options": ["Usa-se 'thee' formal", "Muda-se o pronome para 'ye'", "You serve para tudo, muda-se o tom/vocabulário", "Usa-se 'sir' no lugar de you"],
+      "answer": 2,
+      "explain": "O inglês moderno usa 'you' para qualquer nível de formalidade - a formalidade vem do vocabulário e do tom, não do pronome. Uma vantagem real para quem aprende!"
+    },
+    {
+      "type": "mc",
+      "q": "\"She is two years old.\" O que essa frase realmente diz, palavra por palavra? 🎂",
+      "options": ["Ela tem dois anos", "Ela é dois anos velha", "Ela faz dois anos", "Ela tinha dois anos"],
+      "answer": 1,
+      "explain": "Literalmente \"ela É dois anos velha\" - o inglês usa to be + idade + old, nunca \"to have\" como o português usa \"ter\"."
+    },
+    {
+      "type": "listen",
+      "nl": "Where are you from?",
+      "options": ["Onde você mora?", "De onde você é?", "Como você se chama?", "Para onde você vai?"],
+      "answer": 1,
+      "explain": "Where are you from? pergunta a ORIGEM. O \"from\" no fim é comum em perguntas com where/who/what em inglês."
+    },
+    {
+      "type": "listen",
+      "nl": "I live next door.",
+      "options": ["Eu moro longe daqui.", "Eu moro aqui do lado.", "Eu trabalho aqui perto."],
+      "answer": 1,
+      "explain": "\"next door\" é expressão fixa para \"na casa vizinha\", igual como a vizinha Sofia se apresenta."
+    },
+    {
+      "type": "listen",
+      "nl": "I don't understand.",
+      "options": ["Eu não repito.", "Eu entendo tudo.", "Eu não entendo."],
+      "answer": 2,
+      "explain": "don't = do not: o auxiliar do aparece na negação também. Uma frase salva-vidas essencial!"
+    },
+    {
+      "type": "fill",
+      "before": "My name",
+      "after": "Sofia.",
+      "answer": "is",
+      "alt": [],
+      "hint": "verbo to be, terceira pessoa",
+      "explain": "My name is Sofia = meu nome é Sofia. \"Name\" é terceira pessoa (it), por isso \"is\", não \"am\"."
+    },
+    {
+      "type": "fill",
+      "before": "",
+      "after": "you speak Portuguese?",
+      "answer": "Do",
+      "alt": [],
+      "hint": "auxiliar de pergunta",
+      "explain": "Perguntas precisam do auxiliar do/does: Do you speak Portuguese? Nunca \"Speak you Portuguese?\"."
+    },
+    {
+      "type": "fill",
+      "before": "I",
+      "after": "speak English very well yet.",
+      "answer": "don't",
+      "alt": ["do not"],
+      "hint": "negação com auxiliar",
+      "explain": "A negação também usa o auxiliar do: I don't speak... (do not). Nunca \"I speak not\" como em outras línguas germânicas."
+    },
+    {
+      "type": "order",
+      "pt": "De onde você é?",
+      "tokens": ["Where", "are", "you", "from"],
+      "answer": "Where are you from",
+      "explain": "Where abre a pergunta, o verbo to be (are) vem em seguida, sujeito depois, e \"from\" vai para o fim - típico do inglês."
+    },
+    {
+      "type": "order",
+      "pt": "Você tem filhos?",
+      "tokens": ["Do", "you", "have", "children"],
+      "answer": "Do you have children",
+      "explain": "Pergunta sim/não sempre com o auxiliar do: Do you have...? Nunca \"Have you children?\" no inglês moderno cotidiano."
+    },
+    {
+      "type": "match",
+      "pairs": [
+        ["first name", "primeiro nome"],
+        ["last name", "sobrenome"],
+        ["neighbour", "vizinho/a"],
+        ["hometown", "cidade natal"],
+        ["date of birth", "data de nascimento"]
+      ],
+      "explain": "Palavras essenciais de formulário e conversa de vizinhança - todas aparecem cedo em qualquer situação real de imigração ou viagem."
+    }
+  ]
+}

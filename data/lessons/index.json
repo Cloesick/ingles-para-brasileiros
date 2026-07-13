@@ -1,0 +1,22 @@
+{
+ "lessons": [
+  {
+   "id": "a1-01-apresentacoes",
+   "unit": "A1",
+   "title": "Apresentações · Introductions",
+   "emoji": "👋",
+   "phrases": 12,
+   "exercises": 13,
+   "vocab": 16
+  },
+  {
+   "id": "a1-02-artigos-falsos-cognatos",
+   "unit": "A1",
+   "title": "A, An, The e falsos cognatos · Articles & false friends",
+   "emoji": "🎭",
+   "phrases": 11,
+   "exercises": 13,
+   "vocab": 16
+  }
+ ]
+}

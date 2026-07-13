@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inglês! 🇧🇷→🇬🇧 Curso para brasileiros</title>
+<meta name="description" content="Curso completo de inglês para brasileiros: lições A1-C1, exercícios estilo Babbel, frases com alinhamento colorido de palavras, flashcards e áudio.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-180.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#FBF7F0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Inglês!">
+<link rel="canonical" href="https://ingles-para-brasileiros.vercel.app/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ingles-para-brasileiros.vercel.app/">
+<meta property="og:title" content="Inglês! Curso de inglês para brasileiros 🇧🇷→🇬🇧">
+<meta property="og:description" content="Curso gratuito de inglês com frases alinhadas por cores, jogos de arrastar e soltar, exercícios estilo Babbel e flashcards inteligentes.">
+<meta property="og:image" content="https://ingles-para-brasileiros.vercel.app/assets/og-banner.png">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Inglês! Curso de inglês para brasileiros 🇧🇷→🇬🇧">
+<meta name="twitter:description" content="Curso gratuito de inglês com frases alinhadas por cores, jogos de arrastar e soltar e flashcards inteligentes.">
+<meta name="twitter:image" content="https://ingles-para-brasileiros.vercel.app/assets/og-banner.png">
+<link rel="stylesheet" href="styles.css">
+<script src="assets/consent-init.js"></script>
+<script src="assets/sentry-init.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a href="#/" class="brand">🧇 <strong>Inglês!</strong> <span class="brand-sub">🇧🇷→🇬🇧</span></a>
+  <nav class="topnav">
+    <a href="#/woordenboek" title="Dicionário e busca rápida">🔎</a>
+    <a href="#/dificuldades" title="Suas dificuldades">🎯 <span class="due-badge" id="mistakeBadge" hidden>0</span></a>
+    <a href="#/revisao" title="Flashcards para revisar">🃏 <span class="due-badge" id="dueBadge" hidden>0</span></a>
+    <a href="#/premium" id="premiumNav" title="Inglês! Premium">⭐</a>
+    <span class="stat" title="Pontos de experiência">⚡ <b id="xpStat">0</b></span>
+    <span class="stat" title="Dias seguidos estudando">🔥 <b id="streakStat">0</b></span>
+  </nav>
+</header>
+
+<main id="app" class="app">
+  <div class="loading">⏳ Carregando o curso...</div>
+</main>
+
+<footer class="foot">
+  <p>🧇 Inglês para Brasileiros · curso aberto e gratuito ·
+  <a href="#/woordenboek">🔎 Woordenboek</a> ·
+  <a href="https://github.com/Cloesick/ingles-para-brasileiros">⭐ GitHub</a> ·
+  <a href="privacy.html">🔒 Privacidade</a> ·
+  <button type="button" id="cookiePrefsBtn" class="link-btn">🍪 Preferências de cookies</button></p>
+  <p><small>💡 Dica: no celular, use "Adicionar à tela inicial" para virar um app. O áudio 🔊 usa a voz em inglês do seu aparelho.</small></p>
+  <p class="signature">⚡ Criado por <a href="https://saspire.org" rel="noopener">Saspire</a> · automação e web para quem constrói o futuro · <a href="https://saspire.org" rel="noopener">saspire.org</a></p>
+</footer>
+
+<div id="toast" class="toast" hidden></div>
+<script src="config.js"></script>
+<script src="app.js"></script>
+<script src="assets/sw-register.js"></script>
+</body>
+</html>
